@@ -116,8 +116,7 @@ header.fixed #logo {
   padding: 100px 20%;
   width: 60%;
   float: left;
-  background-color: #6f7178;
-  border-top: 2px solid silver;
+  background-color: #e3cad9;
   color: #484848;
   font-size: 1.4em;
 }
@@ -125,7 +124,8 @@ header.fixed #logo {
   width: 48%;
   margin-right: 2%;
   float: left;
+  border-top: 2px solid silver;
 }
 
 #main h2 {font-size: 3 em};
-#main span {color: #a0a0a0};
+#main span {color: #fff};
