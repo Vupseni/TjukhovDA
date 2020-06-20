@@ -11,7 +11,7 @@ body, html{
 }
 
 body {
-  background-color: #000;
+  background-color: #dee5ff;
   font-family: Trebuchet MS, Helvetica;
 }
 
@@ -24,7 +24,7 @@ header {
 }
 
 header #logo {
-  color:#fff;
+  color:#dbb6b6;
   cursor: pointer;
 }
 header #logo span{
