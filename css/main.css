@@ -121,3 +121,11 @@ header.fixed #logo {
   color: #484848;
   font-size: 1.4em;
 }
+#main div {
+  width: 48%;
+  margin-right: 2%;
+  float: left;
+}
+
+#main h2 {font-size: 3 em};
+#main span {color: #a0a0a0};
