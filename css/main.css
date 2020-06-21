@@ -101,17 +101,23 @@ header.fixed #logo {
   background-size: cover;
   text-align: center;
   color: #fff;
-  font-size: 3em;
+
 }
 
-@media (min-width:1001px) and (min-width:651px) {
-  #logo {
-    font-size: 2em;
+@media (min-width:1001px){
+  #top {
+    font-size: 3em;
   }
-
-  @media (max-width:650px) and (min-width:651px) {
-    #logo {
-      font-size: 1.3em;
+}
+  @media (max-width:1000px) and (min-width:651px){
+    #top {
+      font-size: 2em;
+    }
+}
+    @media (max-width:650px)  {
+      #top {
+        font-size: 1.3em;
+      }
     }
 
 #top h1 {
@@ -127,15 +133,16 @@ header.fixed #logo {
   width: 60%;
   float: left;
   background-color: #e3cad9;
-  color: #484848;
+  border-top: 2px solid silver;
+  color: #141514;
   font-size: 1.4em;
 }
 #main div {
-  width: 48%;
-  margin-right: 2%;
+  width: 45%;
+  margin-right: 20%;
   float: left;
   border-top: 2px solid silver;
 }
 
-#main h2 {font-size: 3 em};
-#main span {color: #fff};
+#main h2 {font-size: 3em}
+#main span {color: #141514}
