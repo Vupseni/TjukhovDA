@@ -104,6 +104,16 @@ header.fixed #logo {
   font-size: 3em;
 }
 
+@media (min-width:1001px) and (min-width:651px) {
+  #logo {
+    font-size: 2em;
+  }
+
+  @media (max-width:650px) and (min-width:651px) {
+    #logo {
+      font-size: 1.3em;
+    }
+
 #top h1 {
   padding-top: 20%;
 }
