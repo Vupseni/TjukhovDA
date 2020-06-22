@@ -197,7 +197,7 @@ header.fixed #logo {
 }
 
 #overview .video-responsive{
-  background: #6c6482;
+  background: #fab7b7;
   padding: 5px;
   border: 2px solid silver;
   float: left;
@@ -209,5 +209,5 @@ header.fixed #logo {
   width:100%;
   font-size: 2em;
   margin-top: 10px;
-  color:#f0e159;
+  color:#e19999;
 }
