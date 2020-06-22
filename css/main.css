@@ -162,12 +162,12 @@ header.fixed #logo {
   width: 45%;
   margin-right: 20%;
   float: left;
-  border-top: 2px solid silver;
   margin-bottom:3%;
 }
 
 #main h2 {font-size: 3em}
-#main span {color: #141514}
+#main span {color: #141514;}
+#main p {margin-bottom:5%;}
 
 /*Блок с обзорами*/
 
@@ -199,7 +199,7 @@ header.fixed #logo {
 #overview .video-responsive{
   border-color:transparent;
   padding: 5px;
-  
+
   float: left;
   width:100%;
   max-width:560px;
